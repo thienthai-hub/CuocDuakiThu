@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     CheckBox cb1, cb2, cb3;
     ImageButton btn, btn1, btn2;
     int sodiem = 100;
-
+//do
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
